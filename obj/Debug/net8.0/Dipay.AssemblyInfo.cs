@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dipay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6e475ef7d5d7de9e7a628025848dcdea208bd34")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dipay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dipay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
